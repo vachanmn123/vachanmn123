@@ -1,29 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vachan MN</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vachanmn123&label=Profile%20views&color=0e75b6&style=flat" alt="vachanmn123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vachanmn123" alt="vachanmn123" /></a> </p>
 
-- 🔭 I’m currently working on [Discordjs-autoresponse-bot](https://github.com/vachanmn123/Discordjs-autoresponse-bot)
-
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on [Dashactyl-v2](https://github.com/Votion-Development/Dashactyl-v2)
-
-- 🤝 I’m looking for help with [Heliactyl](https://github.com/Heliactyl/Heliactyl)
-
-- 👨‍💻 All of my projects are available at [https://github.com/vachanmn123](https://github.com/vachanmn123)
-
-- 📝 I regularly write articles on [Coming soon!](Coming soon!)
-
-- 💬 Ask me about **C++, Python, Kotlin, JavaScript(nodejs)**
-
 - 📫 How to reach me **vachanmn123@gmail.com or on discord TakedownIvy#7802**
-
-- 📄 Know about my experiences [https://vachanmn.me](https://vachanmn.me)
-
-- ⚡ Fun fact **I am a 12th grader**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
