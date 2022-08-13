@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vachanmn123&label=Profile%20views&color=0e75b6&style=flat" alt="vachanmn123" /> </p>
+<img src="https://www.codewars.com/users/vachanmn123/badges/large">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vachanmn123" alt="vachanmn123" /></a> </p>
 
