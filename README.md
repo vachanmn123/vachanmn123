@@ -18,7 +18,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vachanmn123&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vachanmn123&show_icons=true&locale=en&layout=compact" alt="vachanmn123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vachanmn123&show_icons=true&locale=en&layout=compact" alt="vachanmn123" /></p>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vachanmn123&show_icons=true&locale=en" alt="vachanmn123" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vachanmn123&show_icons=true&theme=transparent)
