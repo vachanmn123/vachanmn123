@@ -1,5 +1,7 @@
 # Vachan M N - Talented Programmer and Electronics Enthusiast
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vachanmn123&label=Profile%20views&color=0e75b6&style=flat" alt="vachanmn123" /> </p>
+
 Vachan M N is a young and talented programmer from India who has been actively working on various projects for several years. With a passion for programming and a keen interest in electronics, he has been developing and honing his skills in these fields through his academic studies and personal projects.
 
 Currently pursuing a Bachelor of Engineering in Computer Science and Business Systems at Bapuji Institute of Engineering and Technology, Vachan has already completed several noteworthy projects. Among his most impressive achievements is Ivybill, a billing management system for Pterodactyl that he developed using Django. This project is still in progress, but it has already demonstrated his proficiency in developing complex systems.
@@ -14,7 +16,6 @@ When he is not programming or working on electronics projects, Vachan enjoys pla
 
 If you would like to get in touch with Vachan, you can reach him via email at vachanmn123@gmail.com or Discord at TakedownIvy#7802. To see more of his impressive projects, you can visit his [GitHub page](https://github.com/vachanmn123).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vachanmn123&label=Profile%20views&color=0e75b6&style=flat" alt="vachanmn123" /> </p>
 <img src="https://www.codewars.com/users/vachanmn123/badges/large">  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vachanmn123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
