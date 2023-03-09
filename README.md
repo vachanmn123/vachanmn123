@@ -14,7 +14,7 @@ Vachan's skills in programming languages and tools are wide-ranging, including D
 
 When he is not programming or working on electronics projects, Vachan enjoys playing badminton and cycling. He also likes to watch TV shows filled with suspense and read long fiction titles.
 
-If you would like to get in touch with Vachan, you can reach him via email at vachanmn123@gmail.com or Discord at TakedownIvy#7802. To see more of his impressive projects, you can visit his [GitHub page](https://github.com/vachanmn123).
+If you would like to get in touch with Vachan, you can reach him via email at vachanmn123@gmail.com or Discord at TakedownIvy#7802. To see more of his impressive projects, you can visit his [GitHub page](https://github.com/vachanmn123) or his website at [https://vachanmn.is-a.dev/](https://vachanmn.is-a.dev/).
 
 <img src="https://www.codewars.com/users/vachanmn123/badges/large">  
 
