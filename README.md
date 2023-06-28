@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Vachan MN</h1>
-<h3 align="center">A passionate developer from India.</h3>
+# Vachan M N - Talented Programmer and Electronics Enthusiast
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vachanmn123&label=Profile%20views&color=0e75b6&style=flat" alt="vachanmn123" /> </p>
+
+Vachan M N is a young and talented programmer from India who has been actively working on various projects for several years. With a passion for programming and a keen interest in electronics, he has been developing and honing his skills in these fields through his academic studies and personal projects.
+
+Currently pursuing a Bachelor of Engineering in Computer Science and Business Systems at Bapuji Institute of Engineering and Technology, Vachan has already completed several noteworthy projects. Among his most impressive achievements is Ivybill, a billing management system for Pterodactyl that he developed using Django. This project is still in progress, but it has already demonstrated his proficiency in developing complex systems.
+
+In addition to Ivybill, Vachan has also created several other innovative projects that showcase his technical skills and creativity. For instance, he developed an Automatic Help Discord Bot that uses Disnake to assist users on a Discord server with specific questions or topics. He also created Ivybot 2.0, a multipurpose Discord bot that includes fun games, NSFW commands, and Discord Activities.
+
+Other notable projects that Vachan has completed include the Friendship Meter, which enables users to find out how well they know their friends through a real-time quiz, and the Ivy Journal, a fully encrypted journal that users can use to store personal information and data.
+
+Vachan's skills in programming languages and tools are wide-ranging, including Django apps, Flask apps, Discord bots, Python scripting, NextJS, Express, ReactJS, Svelte, and Sveltekit. He is a skilled developer who is proficient in building complex applications and software systems from the ground up.
+
+When he is not programming or working on electronics projects, Vachan enjoys playing badminton and cycling. He also likes to watch TV shows filled with suspense and read long fiction titles.
+
+If you would like to get in touch with Vachan, you can reach him via email at vachanmn123@gmail.com or Discord at TakedownIvy#7802. To see more of his impressive projects, you can visit his [GitHub page](https://github.com/vachanmn123) or his website at [https://vachanmn.is-a.dev/](https://vachanmn.is-a.dev/).
+
 <img src="https://www.codewars.com/users/vachanmn123/badges/large">  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vachanmn123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📫 How to reach me **vachanmn123@gmail.com or on discord TakedownIvy#7802**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/15767296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15767296" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>   
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vachanmn123&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
